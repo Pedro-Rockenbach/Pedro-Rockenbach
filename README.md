@@ -28,6 +28,3 @@ I'm a 2nd-year CS student passionate about understanding how things work under t
 - 🌐 Learning the fundamentals of **Web Development**.
 
 ---
-
-### 📫 Connect with me:
-[![LinkedIn](www.linkedin.com/in/pedrorockenbach1)]
