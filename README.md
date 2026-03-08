@@ -1,4 +1,4 @@
-# Hi there, I'm [Seu Nome] 👋
+# Hi there, I'm Pedro 👋
 
 ### 🎓 Computer Science Student @ Unioeste
 I'm a 2nd-year CS student passionate about understanding how things work under the hood. Currently diving deep into low-level programming, Linux environments, and automation.
