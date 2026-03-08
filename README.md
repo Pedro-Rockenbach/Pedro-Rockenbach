@@ -29,16 +29,5 @@ I'm a 2nd-year CS student passionate about understanding how things work under t
 
 ---
 
-### 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedrorockenbach1)
+[![LinkedIn](www.linkedin.com/in/pedrorockenbach1)]
